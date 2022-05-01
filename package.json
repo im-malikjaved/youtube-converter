@@ -8,7 +8,7 @@
     "file-saver": "^2.0.2",
     "gh-pages": "^2.1.1",
     "mdbreact": "^4.22.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-fontawesome": "^1.7.1",
